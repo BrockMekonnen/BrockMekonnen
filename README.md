@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brockmekonnen&label=Profile%20views&color=0e75b6&style=flat" alt="brockmekonnen" /> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Flutter, Node + Ts + Mongo**
+- 💬 Ask me about **Flutter, Node + Ts/Js, SQL/NoSQL**
 
 - 📫 How to reach me **birukmekonnent@gmail.com**
 
